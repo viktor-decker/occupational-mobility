@@ -10,5 +10,5 @@ This repository contains the following files.
 
 2 Analysis.do - A Stata do-file that contains the required analysis commands
 
-Folders - In the do-files, a specific folder structure is assumed. This exact folder structure is needed for all commands to run without error. Also, make sure to change the working directory In the first section of each do-file.
+Folders - In the do-files, a specific folder structure is assumed. This exact folder structure is needed for all commands to run without error. Make sure to copy it to your working directory and also make sure to change the working directory In the header of each do-file.
 
